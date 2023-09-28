@@ -1,4 +1,1 @@
 - 👋 Hi, I’m @philippzeppelin
-- 👀 I’m interested in Swift, going to iOS Dev.
-- 🌱 I’m currently learning yes
-- 📫 You can reach me with @phzepp in Telegram
